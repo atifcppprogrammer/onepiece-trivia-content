@@ -12,6 +12,7 @@
 	],
 	"contributor": "monotonical21@gmail.com",
 	"character": "ace",
+	"color": "#78533a",
 	"difficulty": 0,
 	"answer": 0
       },
@@ -26,6 +27,7 @@
 	],
 	"contributor": "monotonical21@gmail.com",
 	"character": "ace",
+	"color": "#78533a",
 	"difficulty": 1,
 	"answer": 1
       },
@@ -40,6 +42,7 @@
 	],
 	"contributor": "monotonical21@gmail.com",
 	"character": "ace",
+	"color": "#78533a",
 	"difficulty": 2,
 	"answer": 2 
       }
