@@ -1,0 +1,48 @@
+{
+  "content": {
+    "trivia": [
+      {
+	"id": "309fc142-dfac-4af9-bce8-c83d14d0dabf",
+	"question": "Who did ace wanted to avenge so badly that he went to confront Marshall D. Teach aka Blackbeard ?",
+	"options": [
+	  "Thatch, the 4th division commander of the Whitebeard pirates",
+	  "Jozu, the 3rd division commander of the Whitebeard pirates",
+	  "Gol D. Roger, his deceased father and The Pirate King",
+	  "Jimbe, former warlord and knight of the sea"
+	],
+	"contributor": "monotonical21@gmail.com",
+	"character": "ace",
+	"difficulty": 0,
+	"answer": 0
+      },
+      {
+	"id": "eb70553a-cef9-4385-bc1f-48d19f681194",
+	"question": "How old was Portgas D. Ace when he became the second division commander of the Whitebeard Pirates ?",
+	"options": [
+	  "17 years old",
+	  "20 years old",
+	  "24 years old",
+	  "25 years old"
+	],
+	"contributor": "monotonical21@gmail.com",
+	"character": "ace",
+	"difficulty": 1,
+	"answer": 1
+      },
+      {
+	"id": "97442e59-1d41-44c0-ac09-bb0cb3a56e16",
+	"question": "In what One Piece manga chapter did Portgas D. Ace make his debut ?",
+	"options": [
+	  "Chapter 152 - Full Moon",
+	  "Chapter 153 - To Arabasta",
+	  "Chapter 154 - Hiriluk's Sakura",
+	  "Chapter 155 - Pirate Sir Crocodile"
+	],
+	"contributor": "monotonical21@gmail.com",
+	"character": "ace",
+	"difficulty": 2,
+	"answer": 2 
+      }
+    ]
+  }
+}
