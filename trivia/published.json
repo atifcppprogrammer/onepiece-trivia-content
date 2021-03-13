@@ -1,7 +1,7 @@
 {
   "content": {
-    "trivia": [
-      {
+    "trivia": {
+      "easy": [{
 	"id": "309fc142-dfac-4af9-bce8-c83d14d0dabf",
 	"question": "Who did ace wanted to avenge so badly that he went to confront Marshall D. Teach aka Blackbeard ?",
 	"options": [
@@ -13,10 +13,9 @@
 	"contributor": "monotonical21@gmail.com",
 	"character": "ace",
 	"color": "#78533a",
-	"difficulty": 0,
 	"answer": 0
-      },
-      {
+      }],
+      "medium": [{
 	"id": "eb70553a-cef9-4385-bc1f-48d19f681194",
 	"question": "How old was Portgas D. Ace when he became the second division commander of the Whitebeard Pirates ?",
 	"options": [
@@ -28,10 +27,9 @@
 	"contributor": "monotonical21@gmail.com",
 	"character": "ace",
 	"color": "#78533a",
-	"difficulty": 1,
 	"answer": 1
-      },
-      {
+      }],
+      "hard": [{
 	"id": "97442e59-1d41-44c0-ac09-bb0cb3a56e16",
 	"question": "In what One Piece manga chapter did Portgas D. Ace make his debut ?",
 	"options": [
@@ -43,9 +41,8 @@
 	"contributor": "monotonical21@gmail.com",
 	"character": "ace",
 	"color": "#78533a",
-	"difficulty": 2,
 	"answer": 2 
-      }
-    ]
+      }]
+    }
   }
 }
