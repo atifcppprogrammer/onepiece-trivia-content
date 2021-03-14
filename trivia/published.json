@@ -14,6 +14,20 @@
 	"character": "ace",
 	"color": "#78533a",
 	"answer": 0
+      },
+      {
+	"id":"46dd977d-67a5-449d-b18b-e814bcffd012",
+	"question": "What is the name of Brook's former pirate crew ?",
+	"options": [
+	  "Bumbar Pirates",
+	  "Rumbar Pirates",
+	  "Lumbar Pirates",
+	  "Dumbar Pirates"
+	],
+	"contributor": "monotonical21@gmail.com",
+	"character": "brook",
+	"color": "#695351",
+	"answer": 1
       }],
       "medium": [{
 	"id": "eb70553a-cef9-4385-bc1f-48d19f681194",
