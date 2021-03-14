@@ -28,6 +28,20 @@
 	"character": "brook",
 	"color": "#695351",
 	"answer": 1
+      },
+      {
+	"id": "e5801aa8-b056-43dc-a366-5109c9a229de",
+	"question": "What is the name of Whitebeard's devil fruit ?",
+	"options": [
+	  "Gura Gura no Mi",
+	  "Goro Goro no Mi",
+	  "Giri Giri no Mi",
+	  "Garu Garu no Mi"
+	],
+	"contributor": "monotonical21@gmail.com",
+	"character": "whitebeard",
+	"color": "#5d384d",
+	"answer": 3
       }],
       "medium": [{
 	"id": "eb70553a-cef9-4385-bc1f-48d19f681194",
