@@ -1,76 +1,87 @@
 {
   "content": {
     "trivia": {
-      "easy": [{
-	"id": "309fc142-dfac-4af9-bce8-c83d14d0dabf",
-	"question": "Who did ace wanted to avenge so badly that he went to confront Marshall D. Teach aka Blackbeard ?",
-	"options": [
-	  "Thatch, the 4th division commander of the Whitebeard pirates",
-	  "Jozu, the 3rd division commander of the Whitebeard pirates",
-	  "Gol D. Roger, his deceased father and The Pirate King",
-	  "Jimbe, former warlord and knight of the sea"
+      "easy": {
+	"ace": [
+	  {
+	    "id": "309fc142-dfac-4af9-bce8-c83d14d0dabf",
+	    "question": "Who did ace wanted to avenge so badly that he went to confront Marshall D. Teach aka Blackbeard ?",
+	    "options": [
+	      "Thatch, the 4th division commander of the Whitebeard pirates",
+	      "Jozu, the 3rd division commander of the Whitebeard pirates",
+	      "Gol D. Roger, his deceased father and The Pirate King",
+	      "Jimbe, former warlord and knight of the sea"
+	    ],
+	    "contributor": "monotonical21@gmail.com",
+	    "color": "#78533a",
+	    "answer": 0
+	  }
 	],
-	"contributor": "monotonical21@gmail.com",
-	"character": "ace",
-	"color": "#78533a",
-	"answer": 0
+	"brook": [
+	  {
+	    "id":"46dd977d-67a5-449d-b18b-e814bcffd012",
+	    "question": "What is the name of Brook's former pirate crew ?",
+	    "options": [
+	      "Bumbar Pirates",
+	      "Rumbar Pirates",
+	      "Lumbar Pirates",
+	      "Dumbar Pirates"
+	    ],
+	    "contributor": "monotonical21@gmail.com",
+	    "color": "#695351",
+	    "answer": 1
+	  }
+	],
+	"whitebeard": [
+	  {
+	    "id": "e5801aa8-b056-43dc-a366-5109c9a229de",
+	    "question": "What is the name of Whitebeard's devil fruit ?",
+	    "options": [
+	      "Gura Gura no Mi",
+	      "Goro Goro no Mi",
+	      "Giri Giri no Mi",
+	      "Garu Garu no Mi"
+	    ],
+	    "contributor": "monotonical21@gmail.com",
+	    "color": "#5d384d",
+	    "answer": 3
+	  }
+	]
       },
-      {
-	"id":"46dd977d-67a5-449d-b18b-e814bcffd012",
-	"question": "What is the name of Brook's former pirate crew ?",
-	"options": [
-	  "Bumbar Pirates",
-	  "Rumbar Pirates",
-	  "Lumbar Pirates",
-	  "Dumbar Pirates"
-	],
-	"contributor": "monotonical21@gmail.com",
-	"character": "brook",
-	"color": "#695351",
-	"answer": 1
+      "medium": {
+	"ace": [
+	  {
+	    "id": "eb70553a-cef9-4385-bc1f-48d19f681194",
+	    "question": "How old was Portgas D. Ace when he became the second division commander of the Whitebeard Pirates ?",
+	    "options": [
+	      "17 years old",
+	      "20 years old",
+	      "24 years old",
+	      "25 years old"
+	    ],
+	    "contributor": "monotonical21@gmail.com",
+	    "color": "#78533a",
+	    "answer": 1
+	  }
+	]
       },
-      {
-	"id": "e5801aa8-b056-43dc-a366-5109c9a229de",
-	"question": "What is the name of Whitebeard's devil fruit ?",
-	"options": [
-	  "Gura Gura no Mi",
-	  "Goro Goro no Mi",
-	  "Giri Giri no Mi",
-	  "Garu Garu no Mi"
-	],
-	"contributor": "monotonical21@gmail.com",
-	"character": "whitebeard",
-	"color": "#5d384d",
-	"answer": 3
-      }],
-      "medium": [{
-	"id": "eb70553a-cef9-4385-bc1f-48d19f681194",
-	"question": "How old was Portgas D. Ace when he became the second division commander of the Whitebeard Pirates ?",
-	"options": [
-	  "17 years old",
-	  "20 years old",
-	  "24 years old",
-	  "25 years old"
-	],
-	"contributor": "monotonical21@gmail.com",
-	"character": "ace",
-	"color": "#78533a",
-	"answer": 1
-      }],
-      "hard": [{
-	"id": "97442e59-1d41-44c0-ac09-bb0cb3a56e16",
-	"question": "In what One Piece manga chapter did Portgas D. Ace make his debut ?",
-	"options": [
-	  "Chapter 152 - Full Moon",
-	  "Chapter 153 - To Arabasta",
-	  "Chapter 154 - Hiriluk's Sakura",
-	  "Chapter 155 - Pirate Sir Crocodile"
-	],
-	"contributor": "monotonical21@gmail.com",
-	"character": "ace",
-	"color": "#78533a",
-	"answer": 2 
-      }]
+      "hard": {
+	"ace": [
+	  {
+	    "id": "97442e59-1d41-44c0-ac09-bb0cb3a56e16",
+	    "question": "In what One Piece manga chapter did Portgas D. Ace make his debut ?",
+	    "options": [
+	      "Chapter 152 - Full Moon",
+	      "Chapter 153 - To Arabasta",
+	      "Chapter 154 - Hiriluk's Sakura",
+	      "Chapter 155 - Pirate Sir Crocodile"
+	    ],
+	    "contributor": "monotonical21@gmail.com",
+	    "color": "#78533a",
+	    "answer": 2 
+	  }
+	]
+      }
     }
   }
 }
