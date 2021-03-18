@@ -32,6 +32,36 @@
 	    "answer": 1
 	  }
 	],
+	"crocodile": [
+	  {
+	    "id": "c48c229c-6362-424e-a4c1-3f16a92ee2db",
+	    "question": "How many times did crocodile defeat luffy before finally succumbing to the might of our future pirate king ?",
+	    "options": [
+	      "One time",
+	      "Two times",
+	      "Three times",
+	      "Four times"
+	    ],
+	    "contributor": "monotonical21@gmail.com",
+	    "color": "#404744",
+	    "answer": 1
+	  }
+	],
+	"sanji": [
+	  {
+	    "id": "",
+	    "question": "What martial art does sanji employ as his signature fighting style ?",
+	    "options": [
+	      "Red Leg Style",
+	      "Two Leg Style",
+	      "Black Leg Style",
+	      "Only Leg Style"
+	    ],
+	    "contributor": "monotonical21@gmail.com",
+	    "color": "#4d4d4d",
+	    "answer": 2
+	  }
+	],
 	"whitebeard": [
 	  {
 	    "id": "e5801aa8-b056-43dc-a366-5109c9a229de",
@@ -45,21 +75,6 @@
 	    "contributor": "monotonical21@gmail.com",
 	    "color": "#5d384d",
 	    "answer": 3
-	  }
-	],
-	"crocodile": [
-	  {
-	    "id": "c48c229c-6362-424e-a4c1-3f16a92ee2db",
-	    "question": "How many times did crocodile defeat luffy before finally succumbing to the might of our future pirate king ?",
-	    "options": [
-	      "one time",
-	      "two times",
-	      "three times",
-	      "four times"
-	    ],
-	    "contributor": "monotonical21@gmail.com",
-	    "color": "#404744",
-	    "answer": 1
 	  }
 	]
       },
