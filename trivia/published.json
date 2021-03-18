@@ -46,6 +46,21 @@
 	    "color": "#5d384d",
 	    "answer": 3
 	  }
+	],
+	"crocodile": [
+	  {
+	    "id": "c48c229c-6362-424e-a4c1-3f16a92ee2db",
+	    "question": "How many times did crocodile defeat luffy before finally succumbing to the might of our future pirate king ?",
+	    "options": [
+	      "one time",
+	      "two times",
+	      "three times",
+	      "four times"
+	    ],
+	    "contributor": "monotonical21@gmail.com",
+	    "color": "#404744",
+	    "answer": 1
+	  }
 	]
       },
       "medium": {
