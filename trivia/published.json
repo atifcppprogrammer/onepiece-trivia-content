@@ -47,9 +47,24 @@
 	    "answer": 1
 	  }
 	],
+	"hancock": [
+	  {
+	    "id": "165f69f0-f838-48b8-8a2d-90759836fda5",
+	    "question": "Boa Hancock is the pirate empress of which island kingdom ?",
+	    "options": [
+	      "Alabasta Kingdom",
+	      "Kamabakka Kingdom",
+	      "Amazon Lilly",
+	      "Dressrosa"
+	    ],
+	    "contributor": "monotonical21@gmail.com",
+	    "color": "#974554",
+	    "answer": 2
+	  }
+	],
 	"sanji": [
 	  {
-	    "id": "",
+	    "id": "f2e46a8e-0d4c-494f-85e1-342cc8048412",
 	    "question": "What martial art does sanji employ as his signature fighting style ?",
 	    "options": [
 	      "Red Leg Style",
