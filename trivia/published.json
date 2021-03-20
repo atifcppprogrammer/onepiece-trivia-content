@@ -17,6 +17,21 @@
 	    "answer": 0
 	  }
 	],
+	"arlong": [
+	  {
+	    "id": "d4d37de1-5b4c-4e64-9783-1f4f87667503",
+	    "question": "Which crew was Arlong a member of before becoming the captain of the Arlong Pirates ?",
+	    "options": [
+	      "Hody Pirates",
+	      "Fishman Pirates",
+	      "Roger Pirates",
+	      "Sun Pirates"
+	    ],
+	    "contributor": "monotonical21@gmail.com",
+	    "color": "#525971",
+	    "answer": 2
+	  }
+	],
 	"brook": [
 	  {
 	    "id":"46dd977d-67a5-449d-b18b-e814bcffd012",
