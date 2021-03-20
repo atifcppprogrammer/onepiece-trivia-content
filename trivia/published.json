@@ -32,6 +32,21 @@
 	    "answer": 3 
 	  }
 	],
+	"bentham": [
+	  {
+	    "id": "47ce6c2b-39c6-4ce3-8a5f-fd2df6fe3b7c",
+	    "question": "By what name was Bentham of the Wild referred to while serving as a member of Baroque Works ?",
+	    "options": [
+	      "Mr. 1",
+	      "Mr. 2",
+	      "Mr. 3",
+	      "Mr. 4"
+	    ],
+	    "contributor": "monotonical21@gmail.com",
+	    "color": "#d894ad",
+	    "answer": 1
+	  }
+	],
 	"brook": [
 	  {
 	    "id":"46dd977d-67a5-449d-b18b-e814bcffd012",
