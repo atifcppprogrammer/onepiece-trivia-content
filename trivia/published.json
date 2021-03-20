@@ -77,6 +77,22 @@
 	    "answer": 1
 	  }
 	],
+	"fujitora": [
+	  {
+	  
+	    "id": "46dba3f3-ba3c-46e9-8b40-04388b4b4a93",
+	    "question": "Navy Admiral Fujitora's devil fruit allows him to control which of the following ?",
+	    "options": [
+	      "Gravity",
+	      "Wind",
+	      "Shockwaves",
+	      "Water"
+	    ],
+	    "contributor": "monotonical21@gmail.com",
+	    "color": "#937cb1",
+	    "answer": 0
+	  }
+	],
 	"hancock": [
 	  {
 	    "id": "165f69f0-f838-48b8-8a2d-90759836fda5",
