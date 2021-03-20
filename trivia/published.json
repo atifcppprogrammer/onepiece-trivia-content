@@ -108,6 +108,21 @@
 	    "answer": 2
 	  }
 	],
+	"mihawk": [
+	  {
+	    "id": "47d5dfc8-01b5-49a8-b605-bcc642c41da8",
+	    "question": "What is the name of Mihawk's sword ?",
+	    "options": [
+	      "Murakumogiri",
+	      "Enma",
+	      "Yoru",
+	      "Shigure"
+	    ],
+	    "contributor": "monotonical21@gmail.com",
+	    "color": "#8d505d",
+	    "answer": 2
+	  }
+	],
 	"sanji": [
 	  {
 	    "id": "f2e46a8e-0d4c-494f-85e1-342cc8048412",
