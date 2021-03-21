@@ -184,6 +184,21 @@
 	    "color": "#78533a",
 	    "answer": 1
 	  }
+	],
+	"brook": [
+	  {
+	    "id": "df9ae3fd-67f6-42a3-abea-9ae255f649e1",
+	    "question": "Why caused the demise of Brooks former crew ?",
+	    "options": [
+	      "Apprehension followed by execution of the entire crew by the Navy",
+	      "Attack by sea kings while sailing thorugh the Calm Belt",
+	      "The spread of an incurable disease",
+	      "Attack by the Roger Pirates"
+	    ],
+	    "contributor": "monotonical21@gmail.com",
+	    "color": "#695351",
+	    "answer": 2
+	  }
 	]
       },
       "hard": {
