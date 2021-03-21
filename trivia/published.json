@@ -123,6 +123,21 @@
 	    "answer": 2
 	  }
 	],
+	"robin": [
+	  {
+	    "id": "19f8df37-620f-4e56-a71d-d48d4d4335c5",
+	    "question": "At what age did Nico Robin join the Strawhat crew ?",
+	    "options": [
+	      "27 years old",
+	      "28 years old",
+	      "29 years old",
+	      "30 years old"
+	    ],
+	    "contributor": "monotonical21@gmail",
+	    "color": "#625d86",
+	    "answer": 1
+	  }
+	],
 	"sanji": [
 	  {
 	    "id": "f2e46a8e-0d4c-494f-85e1-342cc8048412",
