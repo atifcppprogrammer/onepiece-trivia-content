@@ -167,6 +167,21 @@
 	    "color": "#5d384d",
 	    "answer": 3
 	  }
+	],
+	"zoro": [
+	  {
+	    "id": "fb6d4223-4fc6-4b5d-bfbf-cb72bbeb02d8",
+	    "question": "What sword did Zoro inherit from his fallen friend Kuina ?",
+	    "options": [
+	      "Yubashiri",
+	      "Wado Ichimonji",
+	      "Sandai Kitetsu",
+	      "Shisui"
+	    ],
+	    "contributor": "monotonical21@gmail.com",
+	    "color": "#67876a",
+	    "answer": 1
+	  }
 	]
       },
       "medium": {
