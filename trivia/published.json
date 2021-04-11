@@ -168,6 +168,21 @@
 	    "answer": 2
 	  }
 	],
+	"smoker": [
+	  {
+	    "id": "ba42d2dd-0d18-4f69-a5ba-15592aea46eb",
+	    "question": "On Which island did the Strawhat crew first encounter then Captain Smoker ?",
+	    "options": [
+	      "Whiskey Peak",
+	      "Logue Town",
+	      "Jaya",
+	      "Skypeia"
+	    ],
+	    "contributor": "monotonical21@gmail.com",
+	    "color": "#26394d",
+	    "answer": 1
+	  }
+	],
 	"whitebeard": [
 	  {
 	    "id": "e5801aa8-b056-43dc-a366-5109c9a229de",
