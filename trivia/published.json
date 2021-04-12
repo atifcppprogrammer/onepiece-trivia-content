@@ -168,6 +168,21 @@
 	    "answer": 2
 	  }
 	],
+	"sengoku": [
+	  {
+	    "id": "ff7a45dc-8d92-450a-aeb2-d648c8719e29",
+	    "question": "Which admiral did former fleet admiral Sengoku favour as his successor ?",
+	    "options": [
+	      "Akainu",
+	      "Aokji",
+	      "Kizaru",
+	      "Fujitora"
+	    ],
+	    "contributor": "monotonical21@gmail.com",
+	    "color": "#60547a",
+	    "answer": 1
+	  }
+	],
 	"smoker": [
 	  {
 	    "id": "ba42d2dd-0d18-4f69-a5ba-15592aea46eb",
