@@ -108,6 +108,21 @@
 	    "answer": 2
 	  }
 	],
+	"lucci": [
+	  {
+	    "id": "4cbb3c9b-3a35-4b76-ac9d-0d98fbf51281",
+	    "questions": "What is the name of the pigeon that is always seen perched on Rob Lucci's shoulder ?",
+	    "options": [
+	      "Hatori",
+	      "Ratori",
+	      "Satori",
+	      "Datori"
+	    ],
+	    "contributor": "monotonical21@gmail.com",
+	    "color": "#464646",
+	    "answer": 0
+	  }
+	],
 	"luffy": [
 	  {
 	    "id": "a8a09390-f6d2-4be1-ae44-fd0c62f897f0",
