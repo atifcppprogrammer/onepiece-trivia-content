@@ -213,6 +213,21 @@
 	    "answer": 1
 	  }
 	],
+	"usopp": [
+	  {
+	    "id": "9a624b54-100d-4e2f-84eb-22f31ad01208",
+	    "question": "On which island did Usopp train during the two year timeskip ?",
+	    "options": [
+	      "Sabody Archipelago",
+	      "Amazon Lily",
+	      "Boin Archipelago",
+	      "Thriller Bark"
+	    ],
+	    "contributor": "monotonical21@gmail.com",
+	    "color": "#beb2a3",
+	    "answer": 2
+	  }
+	],
 	"whitebeard": [
 	  {
 	    "id": "e5801aa8-b056-43dc-a366-5109c9a229de",
