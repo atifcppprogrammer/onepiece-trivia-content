@@ -108,6 +108,21 @@
 	    "answer": 2
 	  }
 	],
+	"kuzan": [
+	  {
+	    "id": "d4780867-faf2-42e0-9f58-88b5340cfbd9",
+	    "question": "How long did Kuzan's confrontation with Sakazuki on Punk Hazard last ?",
+	    "options": [
+	      "7 days",
+	      "8 days",
+	      "9 days",
+	      "10 days"
+	    ],
+	    "contributor": "monotonical21@gmail.com",
+	    "color": "#556f71",
+	    "answer": 3
+	  }
+	],
 	"lucci": [
 	  {
 	    "id": "4cbb3c9b-3a35-4b76-ac9d-0d98fbf51281",
