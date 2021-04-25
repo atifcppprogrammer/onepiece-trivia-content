@@ -183,6 +183,21 @@
 	    "answer": 2
 	  }
 	],
+	"monet": [
+	  {
+	    "id": "80c586ae-810d-45fc-8bc9-fc0cf7ab5e48",
+	    "question": "What type of devil fruit is Monet's Yuki Yuki no Mi ?",
+	    "options": [
+	      "Zoan",
+	      "Paramecia",
+	      "Logia",
+	      "Mythical Zoan"
+	    ],
+	    "contributor": "monotonical21@gmail",
+	    "color": "#68656f",
+	    "answer": 2
+	  }
+	],
 	"robin": [
 	  {
 	    "id": "19f8df37-620f-4e56-a71d-d48d4d4335c5",
