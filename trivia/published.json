@@ -108,6 +108,21 @@
 	    "answer": 2
 	  }
 	],
+	"jinbei": [
+	  {
+	    "id": "d2e9f63a-e4f6-4088-967e-86c745fff50d",
+	    "question": "What is Jinbe's role as part of the Strawhat crew ?",
+	    "options": [
+	      "Archaeologist",
+	      "Helmsman",
+	      "Marksmen",
+	      "Navigator"
+	    ],
+	    "contributor": "monotonical21@gmail.com",
+	    "color": "#d37254",
+	    "answer": 1
+	  }
+	],
 	"kuzan": [
 	  {
 	    "id": "d4780867-faf2-42e0-9f58-88b5340cfbd9",
