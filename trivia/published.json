@@ -123,6 +123,21 @@
 	    "answer": 1
 	  }
 	],
+	"kuma": [
+	  {
+	    "id": "0eb15fad-b3b9-4cd1-918d-d7775bf26c03",
+	    "question": "What did Bartholomew Kuma do during the two year timeskip ?",
+	    "options": [
+	      "Being transformed into a Cyborg by Dr. Vegapunk", 
+	      "Capture the former Warlord Gecko Moria",
+	      "Hunt Nico Robin for the World Government",
+	      "Protect the Thousand Sunny while the Strawhats were away"
+	    ],
+	    "contributor": "monotonical21@gmail.com",
+	    "color": "#927ea3",
+	    "answer": 3
+	  }
+	],
 	"kuzan": [
 	  {
 	    "id": "d4780867-faf2-42e0-9f58-88b5340cfbd9",
